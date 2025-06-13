@@ -30,12 +30,12 @@ https://ieeexplore.ieee.org/document/10725408
 
 🛠️ Technologies Used
 Technology	
-Python -	Core development language
-Streamlit -	UI framework for interactive web apps
-Neo4j	- Graph database for transaction storage
-Pyvis -	Network visualization library
-Transformers -	HuggingFace library for LLMs (LLaMA, T5)
-Scikit-learn -	ML models and preprocessing
+Python -	Core development language,
+Streamlit -	UI framework for interactive web apps,
+Neo4j	- Graph database for transaction storage,
+Pyvis -	Network visualization library,
+Transformers -	HuggingFace library for LLMs (LLaMA2, T5),
+Scikit-learn -	ML models and preprocessing,
 Pandas	- Data manipulation
 
 
