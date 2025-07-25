@@ -17,6 +17,12 @@ Traditional financial fraud detection systems struggle with complex, relational 
 
 ---
 
+<img width="1733" height="748" alt="Fraud" src="https://github.com/user-attachments/assets/78eca126-a911-4688-8e0a-2ffc3cb1200a" />
+
+
+
+-----
+
 pip install -r requirements.txt
 
 streamlit run app.py
